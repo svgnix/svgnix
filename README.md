@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagniksantra
 - 👀 I’m interested in cooking and coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ and dev
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 reach me santrasagnik@gmail.com
 
