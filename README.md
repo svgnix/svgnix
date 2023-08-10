@@ -53,10 +53,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagniksantra&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![sagniksantra's GitHub | Stats](https://stats.quine.sh/sagniksantra/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sagniksantra)
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagniksantra&hide=jupyter-notebook&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
 
 <!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
